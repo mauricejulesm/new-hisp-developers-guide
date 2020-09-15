@@ -5,7 +5,7 @@ A detailed guide of necessary basic skills, tech tools, APIs, tutorials and docu
 | Name            | email                   | Role                
 | ----------------|:-----------------------:| ------------------:|
 | Maurice Jules M.| mauricej@hisprwanda.org | Software Developer |
-| Didier I.       | didier@hisprwanda.or    |Software Developer  |
+| Didier I.       | digiraneza@hisprwanda.or    |Software Developer  |
 
 ## 1. General understanding of what is DHIS2
 HISP Rwanda uses `dhis2` platform extensively for web and mobile apps development.
