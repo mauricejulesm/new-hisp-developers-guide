@@ -5,7 +5,7 @@ A detailed guide of necessary basic skills, tech tools, APIs, tutorials and docu
 | Name            | email                   | Role                
 | ----------------|:-----------------------:| ------------------:|
 | Maurice Jules M.| mauricej@hisprwanda.org | Software Developer |
-| Didier I.       | digiraneza@hisprwanda.org    |Software Developer  |
+| Didier I.       | digiraneza@hisprwanda.org|Software Developer  |
 
 ## 1. General understanding of what is DHIS2
 HISP Rwanda uses `dhis2` platform extensively for web and mobile apps development.
@@ -59,9 +59,9 @@ Python can be used to mine and analyse and `dhis2` data.
 ### 4. Github Account and Usage
 Having a github account is recommended for any software developer. Please follow this link to learn how to setup you account if you don't have it yet.
 
-- A
-- B 
-- D 
+- Visit <www.github.com>
+- Choose create account
+- Create a sample repository
 
 ## 5. Creating DHIS2 App
 The assignment here is to create a hello world `dhis` app.
