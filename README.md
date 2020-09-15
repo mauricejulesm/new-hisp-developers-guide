@@ -63,4 +63,7 @@ Having a github account is recommended for any software developer. Please follow
 - B 
 - D 
 
+## 3. Creating DHIS2 App
+The assignment here is to create a hello world `dhis` app.
+
 
