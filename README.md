@@ -25,6 +25,10 @@ This course will help you understand fundamentals of dhis2. You can click on the
 - [Link to the course](https://academy.dhis2.org/courses/HISP/DHIS2_Level1/2015_Q1/about)
     - Create an account 
     - Navigate to courses
+
+- In this course: try to go through the first 3 modules as quick as you can, then **focus on Module 4 - Introduction to DHIS2 Customization current chapter**. 
+
+The most important things to understand before you start using `dhis2` are the following: 
 - Organization units
 - Data elements
 - Organization unit
@@ -43,9 +47,17 @@ For example, Analytics, Event Data, Enrollment, Sending messages, etc.
 - Messaging (email & sms)
 - Org Unit Analytics. 
 
-### 1.3. Using Postman to test dhis2 APIs 
-This web api contains everything a developer will need to access data from dhis core apps. 
-For e
+### 1.4. Using Postman to test dhis2 APIs
+If you don't have it already, download postman [here](https://www.postman.com/downloads/)
+- You can start testing dhis2 API using postman
+    - Main dhis2 demo endpoint `https://play.dhis2.org/2.34.1/api/ `
+    - dhis2 demo credentials:
+        - username: `admin`
+        - password: `district`
+
+Example of a GET request:
+    - Performing a GET request on this endpoint `https://play.dhis2.org/2.34.1/api/me `gives you the information about he current user in dhis2 instance
+
 
 ## 2. Understanding React
 React is an open-source JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies.
