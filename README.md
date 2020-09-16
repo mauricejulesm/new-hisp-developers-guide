@@ -15,16 +15,21 @@ You will find different useful resources that will help you understand it and ge
 ### 1.1. DHIS2 main website
 - About
 - DHIS2 resources
-- Success story
+- Success stories: 
+    - [Link1 ](https://www.dhis2.org/rwanda-covid-testing) about Rwanda & 
+    - [Link 2](https://www.dhis2.org/in-action) about other cases
 
 
 ### 1.2. Dhis2 fundamentals 
 This course will help you understand fundamentals of dhis2. You can click on the links to read more. 
-- [Link](https://docs.dhis2.org/2.34/en/dhis2_developer_manual/web-api.html#introduction) 
+- [Link to the course](https://academy.dhis2.org/courses/HISP/DHIS2_Level1/2015_Q1/about)
+    - Create an account 
+    - Navigate to courses
+- Organization units
 - Data elements
 - Organization unit
-- Dataset 
-- Etc ...
+- Data Sets 
+
 
 ### 1.3. DHIS2 Web API 
 This web api contains everything a developer will need to access data from dhis core apps. 
@@ -37,6 +42,10 @@ For example, Analytics, Event Data, Enrollment, Sending messages, etc.
 - [Analytics](https://docs.dhis2.org/2.34/en/dhis2_developer_manual/web-api.html#analytics)
 - Messaging (email & sms)
 - Org Unit Analytics. 
+
+### 1.3. Using Postman to test dhis2 APIs 
+This web api contains everything a developer will need to access data from dhis core apps. 
+For e
 
 ## 2. Understanding React
 React is an open-source JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies.
